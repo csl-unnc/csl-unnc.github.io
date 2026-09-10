@@ -1,11 +1,11 @@
 ---
 name: Xing Hou
-role: Research Assistant
-title: Research Assistant
+role: Senior Research Assistant
+title: Senior Research Assistant
 department: Control System Lab
 email: xing.hou@nottingham.edu.cn
 image: assets/xinghou.png
-category: research-assistants
+category: senior-research-assistants
 order: "15"
 # orcid: 0000-0001-2345-6789
 ---
