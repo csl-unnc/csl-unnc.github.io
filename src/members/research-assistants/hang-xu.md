@@ -1,7 +1,7 @@
 ---
 name: Hang Xu
-role: Research Assistant
-title: Research Assistant - B.Sc student in Computer Science
+role: Senior Research Assistant
+title: Senior Research Assistant - B.Sc student in Computer Science
 department: Computer Science
 email: hang.xu@nottingham.edu.cn
 image: assets/hangxu.jpg
