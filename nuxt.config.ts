@@ -86,8 +86,8 @@ export default defineNuxtConfig({
       members: {
         categories: [
           { key: 'staff', labelKey: 'members.staff' },
-          { key: 'research-students', labelKey: 'members.researchStudents' },
-          { key: 'research-assistants', labelKey: 'members.researchAssistants' },
+          { key: 'research-students', labelKey: 'members.researchStudents', groupByRole: true },
+          { key: 'research-assistants', labelKey: 'members.researchAssistants', groupByRole: true },
           { key: 'alumni', labelKey: 'members.alumni' },
         ],
       },
