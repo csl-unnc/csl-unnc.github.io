@@ -5,7 +5,7 @@ title: Senior Research Assistant - BSc student in Computer Science
 department: School of Computer Science
 email: hvysh2@nottingham.edu.cn
 image: assets/siyuan-he.jpg
-category: senior-research-assistants
+category: research-assistants
 order: "24"
 # orcid: 0000-0001-2345-6789
 ---

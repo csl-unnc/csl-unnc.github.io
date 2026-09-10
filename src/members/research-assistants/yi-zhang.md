@@ -5,7 +5,7 @@ title: Senior Research Assistant - BEng student in Mechanical Engineering
 department: Department of Mechanical, Materials and Manufacturing Engineering
 email: "ssyyz54@nottingham.edu.cn"
 image: assets/yi-zhang.jpg
-category: senior-research-assistants
+category: research-assistants
 order: "23"
 # orcid: 0000-0001-2345-6789
 ---
