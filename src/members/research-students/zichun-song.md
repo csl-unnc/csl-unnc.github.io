@@ -1,8 +1,8 @@
 ---
 name: Zichun Song
 role: PhD Student
-# title: PhD Student, Department of Mechanical, Materials and Manufacturing Engineering
-# department: Department of Mechanical, Materials and Manufacturing Engineering
+title: PhD Student, Department of Mechanical, Materials and Manufacturing Engineering
+department: Department of Mechanical, Materials and Manufacturing Engineering
 # group: xxx
 email: Zichun.SONG@nottingham.edu.cn
 # scholar: https://scholar.google.com/citations?user=xxxxx
@@ -15,4 +15,9 @@ order: "31"
 #   - Robotics
 ---
 
-Zichun Song is a full-time research student with the Control System Lab, University of Nottingham Ningbo China.
+He received the B.Eng. degree from Hohai University, and the master's degree from The Hong Kong University of Science and Technology. He is currently working toward the Ph.D. degree in mechanical engineering with the University of Nottingham Ningbo China.
+
+## Research Interests
+
+- UAV intelligent systems and autonomous inspection
+- Edge AI and embedded computer vision

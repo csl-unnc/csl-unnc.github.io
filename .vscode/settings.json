@@ -19,6 +19,7 @@
         "Fuhua",
         "FURP",
         "hangxu",
+        "Hohai",
         "hrefs",
         "ICRA",
         "Ijaz",
@@ -73,9 +74,6 @@
         "Zichun",
         "Zihao"
     ],
-    "markdownlint.config": {
-        "no-inline-html": false
-    },
     "i18n-ally.localesPaths": [
         "src/content/i18n"
     ],
