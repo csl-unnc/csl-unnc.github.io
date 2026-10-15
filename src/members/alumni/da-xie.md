@@ -7,6 +7,12 @@ image: assets/da-xie.jpg
 category: alumni
 order: "30"
 
+email: xlapostle@gmail.com
+orcid: 0009-0001-0087-095X
+interests:
+  - Reinforcement learning
+  - Embodied Intelligence
+
 # email: xxx@nottingham.edu.cn
 # scholar: https://scholar.google.com/citations?user=xxxxx
 # orcid: 0000-0001-2345-6789
