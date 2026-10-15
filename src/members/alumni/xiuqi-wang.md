@@ -4,7 +4,7 @@ role: Intern Research Assistant (Alumni)
 title: Intern Research Assistant, now at Johns Hopkins University
 department: Department of Electrical and Electronic Engineering
 email: ""
-image: /images/default.jpg
+image: assets/xiuqi-wang.jpg
 category: alumni
 order: "29"
 # orcid: 0000-0001-2345-6789
