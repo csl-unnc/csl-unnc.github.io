@@ -10,7 +10,7 @@ order: "24"
 # orcid: 0000-0001-2345-6789
 ---
 
-Siyuan He (Robert He) is a B.Sc. (Hons) student in computer science with the School of Computer Science, University of Nottingham Ningbo China, and a Senior Research Assistant with the Control System Lab. He leads the algorithm group of the UNNC AIM RoboMaster / RoboCon robotic team, and works as a full-stack developer across research and engineering projects — from the game-server manager ReGSM for CS2 community servers to a VS Code extension with nearly 1,000 installs — maintaining 100+ open-source projects in total.
+Siyuan He (Robert He) is a B.Sc. (Hons) student in computer science with the School of Computer Science, University of Nottingham Ningbo China, and a Senior Research Assistant with the Control System Lab. He leads the algorithm group of the UNNC AIM RoboMaster / RoboCon robotic team, and works as a full-stack developer across research and engineering projects — from the game-server manager ReGSM for CS2 community servers to a handful of VS Code extensions with nearly 4,000 installs in total — maintaining 120+ open-source projects.
 
 ## Research Interests
 
@@ -30,4 +30,4 @@ Siyuan He (Robert He) is a B.Sc. (Hons) student in computer science with the Sch
 
 ::github{repo="markuxt/markuxt"}
 
-More of his work: [hnrobert.space](https://hnrobert.space) · [GitHub @hnrobert](https://github.com/hnrobert)
+More of his work: [GitHub @hnrobert](https://github.com/hnrobert)
